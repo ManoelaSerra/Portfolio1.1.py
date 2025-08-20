@@ -1,0 +1,301 @@
+nome,cpf,email,endereco,data_nascimento,idade,telefone,salario,avaliacao,vendas
+Luana Sá,209.568.713-21,gustavo-henrique60@example.org,"Fazenda Souza, 6
+Manacas
+50817-960 da Cunha Alegre / AP",1952-04-20,62,+55 84 7033 3227,5446,2,444
+Srta. Agatha Vieira,960.734.258-56,eduardada-mata@example.org,"Feira de Ramos, 35
+Cenaculo
+55594-169 Sousa da Prata / GO",1944-12-23,25,21 4542 0053,2271,5,373
+Emilly Costela,714.590.236-25,heitor17@example.net,"Núcleo Pietro Farias, 6
+Campo Alegre
+51015939 Siqueira / PA",1990-05-27,44,+55 (071) 0598 7908,9324,3,31
+Srta. Caroline Macedo,103.845.769-66,allanada-rocha@example.org,"Rodovia de Andrade, 30
+Santa Helena
+63517-839 Montenegro de Barbosa / CE",1985-05-22,51,+55 (021) 9846-7978,9904,3,145
+Ayla Peixoto,460.827.359-00,vitoriaribeiro@example.com,"Setor de Brito, 36
+Vila Rica
+06647542 Abreu do Campo / RR",1966-07-14,19,0900-888-5077,5979,3,307
+Liam Guerra,021.748.396-87,fonsecamarcelo@example.org,"Setor Leão, 49
+Vila São Rafael
+32167453 Duarte de Pereira / TO",1983-03-21,61,+55 51 8855 7661,1422,5,77
+Srta. Isis Gonçalves,934.157.620-25,stella62@example.org,"Travessa Cavalcanti, 8
+Santa Isabel
+29351-043 da Rosa Grande / SP",1978-09-10,34,(051) 2980-9885,2677,5,196
+Zoe da Rosa,012.594.873-50,noah01@example.net,"Viaduto Melo
+Santa Rita De Cássia
+60797-136 Fonseca Paulista / MS",1963-09-06,43,0800 133 5630,5079,1,168
+Heloisa Vieira,032.758.619-21,rodrigo15@example.com,"Vale de Garcia, 809
+Jaqueline
+37889-561 Cavalcante de Alves / ES",1958-11-14,55,11 4593 5616,8019,1,53
+Lara Nascimento,701.594.862-11,davi-luiz11@example.org,"Feira Lucas Sousa, 59
+Barro Preto
+62886118 Guerra Paulista / PR",1975-08-08,36,11 4665-6431,8695,5,140
+Sr. Rael Sales,806.197.452-58,raulcunha@example.org,"Via Yan Gomes, 27
+Nossa Senhora Da Conceição
+96189714 Caldeira do Amparo / RN",1948-12-29,62,41 5682-2835,9557,5,84
+Dra. Daniela Moura,489.135.206-05,erick54@example.net,"Quadra Cirino, 6
+Palmares
+23245-537 Borges da Mata / DF",1948-02-18,80,+55 11 7050 1118,9044,4,468
+Henry Mendonça,619.502.438-42,carlos-eduardoteixeira@example.net,"Colônia Barros, 37
+Acaiaca
+42236-453 Gomes / AL",2001-10-29,24,+55 11 1878-3745,4876,4,449
+Laura Gonçalves,942.603.815-98,csantos@example.com,"Travessa Antonella Guerra, 8
+Pantanal
+62507-451 Costa / PR",1986-05-30,57,+55 41 0439-4439,5745,3,133
+Ana Carolina Lopes,285.173.046-08,barrossophie@example.net,"Praia de Lopes, 735
+Nova Vista
+18614898 Silva / PB",2000-08-14,49,+55 71 5847 7809,4156,3,172
+Gabrielly Barros,329.608.175-59,ana-julia93@example.com,"Feira de Fernandes, 398
+Vila Jardim São José
+80679815 Campos / MS",1996-04-03,57,0800 396 9412,4245,4,375
+Enzo da Paz,014.726.589-49,heitor03@example.com,"Estrada de Melo, 2
+Dom Silverio
+58764908 Gonçalves do Amparo / ES",1951-06-29,25,84 7290 8532,8906,2,407
+Daniel Brito,380.712.649-03,ana-juliagarcia@example.org,"Colônia Cunha, 2
+Urca
+98311678 Lima de Minas / MT",1948-03-20,27,(041) 8047-9604,9480,3,101
+Elisa Moreira,206.715.938-03,correiabenjamim@example.com,"Distrito de Casa Grande, 27
+Nova Gameleira
+30420-746 Marques Alegre / RR",1955-01-23,45,84 4209-0411,8415,2,102
+Liam Nascimento,470.265.189-76,maria-luisa77@example.net,"Lago Rocha, 65
+Esplanada
+35895-358 Moreira / MS",1984-01-23,35,(081) 3366 8767,9832,3,495
+Sra. Maria Luiza Lima,924.186.750-76,novaisisabella@example.com,"Fazenda Ana Melo, 8
+Olhos D'água
+40828-587 Albuquerque / RJ",1999-04-17,55,(061) 0254-0784,4669,4,347
+Dra. Natália Campos,497.501.368-10,luccamacedo@example.net,"Trevo de Montenegro, 96
+Ipe
+81073532 Pires / MG",1977-10-24,26,+55 (011) 6419-3070,7049,5,288
+Davi Luiz da Conceição,570.284.193-04,rezendedavi@example.com,"Chácara de Marques, 21
+Santa Rita
+09135960 Moura de Minas / SP",2006-08-18,49,51 4441 5580,7906,5,376
+José Pedro Vargas,014.729.836-96,rda-cruz@example.com,"Estação de Dias, 573
+Outro
+92470-996 Farias / AC",1996-11-24,34,+55 (061) 3919 3442,5934,1,195
+Pietro da Paz,973.268.150-03,cnovaes@example.net,"Trecho Caldeira, 3
+Tupi A
+52905214 Sampaio / SC",1948-08-20,32,+55 (041) 3798-0785,5726,4,218
+Ana Clara Macedo,798.526.041-20,valentimdias@example.com,"Quadra Marques, 63
+Álvaro Camargos
+33962260 Novaes / CE",1956-12-20,59,71 5648 9054,7177,4,219
+Isabela Jesus,086.935.247-47,joanasampaio@example.com,"Praia de Nogueira, 966
+Pindorama
+61610-609 Silveira da Mata / RR",1974-09-07,28,31 9049-9392,7089,5,292
+Yasmin Vasconcelos,715.260.439-80,montenegrogustavo@example.net,"Viela de Novaes, 9
+Vila Nova Dos Milionarios
+73207644 Porto do Campo / RJ",1945-09-29,61,(071) 8189 6487,1271,5,262
+Dr. Murilo Brito,526.310.897-40,bvieira@example.com,"Jardim Henry Almeida
+Conjunto Paulo Vi
+41666146 Barros de Cirino / PR",1990-09-08,28,(051) 8628-4449,3534,1,462
+Brenda da Luz,428.615.397-55,novaesheloisa@example.net,"Rua de Rezende, 65
+Vila Barragem Santa Lúcia
+15634-485 Vieira do Galho / AP",1958-12-06,19,+55 51 8980 9812,7969,5,420
+Alexandre Cavalcante,260.753.148-90,felipemontenegro@example.net,"Via de Cavalcante, 63
+Flavio Marques Lisboa
+65496387 Pastor de Goiás / MA",1995-03-26,77,+55 (071) 8532 1171,5098,5,14
+Lucas Cassiano,310.689.247-13,dcampos@example.com,"Condomínio de Carvalho, 5
+Vila Minaslandia
+78551-940 Leão / SE",1979-05-15,57,31 2420-6505,1244,4,55
+Levi Aragão,945.120.678-76,piresmaya@example.net,"Lagoa Aragão, 48
+Zilah Sposito
+63105-426 Viana Alegre / SC",1946-06-19,29,+55 (071) 7706-1868,3132,1,23
+Theo Barros,895.314.206-70,fda-cunha@example.net,"Trevo de Azevedo
+Vitoria Da Conquista
+43842883 Oliveira da Mata / RN",1971-07-27,57,+55 71 9461 7059,3240,2,110
+Rhavi da Conceição,703.894.561-01,theomendonca@example.com,"Viela Cardoso, 8
+Fazendinha
+33418-606 Rios do Sul / AL",1980-11-04,51,(031) 9325 9916,4629,5,491
+Bento Jesus,974.125.068-11,danilo63@example.org,"Chácara Ana Lívia Teixeira, 18
+Etelvina Carneiro
+77024-021 da Cruz do Oeste / MS",1979-03-03,40,11 7011 7141,9809,3,243
+Mirella Fernandes,201.895.764-30,silvamaite@example.com,"Jardim de Novais, 80
+Santa Rosa
+16240902 Sampaio / RR",1977-05-04,49,61 7832 3865,2064,4,316
+Amanda Alves,960.138.247-03,vicente34@example.com,"Chácara Gabriel Vasconcelos, 600
+Custodinha
+23090484 Duarte da Mata / AP",1975-08-22,45,(071) 7481 0774,2297,4,131
+Asafe Aragão,182.095.473-05,daniel91@example.net,"Feira Lunna Mendes, 84
+Mirante
+86701-919 Gonçalves / PE",1997-12-30,76,21 4047-1760,6771,3,137
+Sofia Moura,581.096.372-21,emilly08@example.org,"Rua Maria Alice Nascimento, 37
+Serra
+61532048 Mendes do Galho / TO",1972-12-13,31,(031) 1950 6306,3455,5,160
+Davi Miguel Peixoto,642.375.190-07,joao-gabriel99@example.com,"Núcleo de Alves, 28
+Estoril
+24194-381 Azevedo de da Cunha / GO",1966-05-16,19,0500 233 5422,9948,4,19
+Yan Duarte,103.845.297-04,vieiramaria-luiza@example.org,"Fazenda Guilherme Mendes, 6
+Tres Marias
+69146852 Souza de Minas / RS",1989-03-06,51,0900-509-1632,2362,4,325
+Alexandre Cirino,619.052.748-58,mfogaca@example.org,"Parque Vitor Gabriel Novaes, 8
+Esplanada
+78126-591 Costa do Amparo / MT",2003-01-09,52,(041) 7382-0690,7835,5,114
+Maya da Paz,371.905.842-50,pereiragael@example.org,"Campo da Paz
+Conjunto Califórnia Ii
+01140-062 Sousa de Minas / AP",1971-07-01,73,0900-866-0778,5398,4,151
+Cecilia Correia,597.382.146-37,icavalcanti@example.net,"Chácara Cassiano, 225
+Madre Gertrudes
+70059-957 Cirino / MT",1952-04-07,33,+55 81 2383-8574,6609,5,193
+Bruna Melo,596.834.720-10,mariana78@example.com,"Vereda de Ribeiro, 6
+Padre Eustáquio
+40047-602 Silva / AL",1968-05-16,54,(031) 1931 6972,1453,4,270
+Nicole Pimenta,062.813.947-04,livia82@example.net,"Distrito de da Cruz, 61
+Marmiteiros
+43134-818 Castro / RR",1971-04-13,58,0500 409 5384,1631,5,393
+Ana Vitória da Cruz,843.570.162-07,beatriz46@example.com,"Ladeira Beatriz Peixoto, 13
+Alta Tensão 1ª Seção
+20490902 Gomes de Fogaça / SC",2007-03-25,41,31 7306 5722,5661,1,277
+João da Cunha,362.057.948-29,xlopes@example.net,"Travessa Pires, 132
+Cônego Pinheiro 2ª Seção
+49743531 Castro / AL",1959-02-25,39,21 8289 2301,6930,3,46
+Carlos Eduardo Aragão,830.294.165-42,isabela61@example.com,"Praça Rios, 36
+Vila Da Luz
+29773-204 Vieira Paulista / AP",1976-07-04,72,+55 (011) 9502 7348,3688,4,44
+Gabrielly Oliveira,149.603.782-04,teixeirafelipe@example.net,"Sítio Eduarda Moraes, 46
+Morro Dos Macacos
+12028695 Vasconcelos das Flores / RR",1964-01-31,80,84 8811 0978,1597,2,419
+Lucas Gabriel Sousa,079.268.341-22,tjesus@example.net,"Viela Almeida, 4
+Piratininga
+09421790 Vieira / AL",1971-02-19,22,+55 51 9880 1836,1498,1,104
+Clarice Cavalcante,597.460.281-11,nporto@example.org,"Estação de Moura, 718
+Olaria
+26654213 das Neves Verde / RO",1994-01-18,73,(071) 6506 9768,1339,4,485
+Alana Sá,490.813.675-01,ecavalcante@example.com,"Campo Gabrielly Oliveira, 23
+Coqueiros
+59787933 Sampaio / RR",1999-01-04,47,+55 51 6510 8015,8666,3,469
+João Miguel Silveira,283.601.974-31,maria-eduardamelo@example.org,"Rua de Ferreira, 8
+Lagoinha Leblon
+09783261 Mendonça / SP",1981-04-03,22,+55 (031) 4210 1373,1573,2,94
+Luiz Otávio Ribeiro,695.784.302-56,rebecanogueira@example.com,"Lago de Nascimento, 8
+São José
+46204-074 Moraes / AM",1980-12-24,50,21 3461-0763,4812,5,106
+Sr. Augusto Rios,597.834.102-88,acorreia@example.org,"Parque Joaquim Montenegro, 37
+Gameleira
+67558982 da Conceição / AC",1994-02-05,52,+55 (011) 7671 6620,5090,5,148
+João Vitor Castro,107.685.324-26,joao-lucasdas-neves@example.com,"Viela Andrade, 917
+Lourdes
+99462-250 Correia do Oeste / CE",1975-06-11,66,(051) 6270 5467,4246,4,61
+Maria Alice Leão,316.078.495-93,almeidacarolina@example.com,"Pátio José Pedro Caldeira
+São Tomaz
+35794-769 Costa / GO",1993-08-01,74,84 4004-2616,5461,5,201
+Dra. Maria Liz Fernandes,915.863.042-24,isis81@example.org,"Conjunto Danilo Araújo
+Jardim São José
+27373573 da Mata do Norte / SE",1964-06-18,62,51 9010 8183,8003,3,101
+Sra. Vitória Campos,804.251.637-17,gcavalcante@example.org,"Trevo Cardoso, 85
+São Geraldo
+71965854 Moraes dos Dourados / AP",1992-08-24,64,+55 (071) 9053-2170,4482,5,173
+Theo Nascimento,437.068.251-71,portorebeca@example.net,"Aeroporto Moreira, 601
+Glória
+95080-772 Teixeira / AP",1989-05-05,29,11 2841 7991,1946,4,401
+Dr. Levi Barros,960.725.138-59,da-cruzbreno@example.org,"Viaduto Daniel Mendonça, 10
+Alta Tensão 2ª Seção
+47490-040 Cavalcanti das Pedras / MT",1961-11-15,38,81 5128-8964,9305,1,202
+Gabriel Pimenta,294.315.687-64,lsales@example.com,"Via Cavalcanti, 5
+Grota
+97466-941 Barbosa / AL",1971-06-15,78,(061) 0984-4700,1142,2,142
+André da Rocha,509.614.873-48,hellenadias@example.org,"Passarela Daniel Fonseca
+São Luiz
+59871-238 Costela de Barbosa / DF",1952-05-18,69,+55 71 2089-1026,5590,3,178
+Vitor Cardoso,017.483.952-97,wleao@example.com,"Vereda de Jesus, 642
+Vila Engenho Nogueira
+31315255 Farias / MA",1988-05-10,71,71 0858-0988,1085,2,298
+João Felipe das Neves,401.872.563-90,ada-costa@example.com,"Rua Cavalcante
+Belmonte
+38498-363 Ribeiro / AC",1946-02-05,26,+55 61 9545-8527,1184,5,270
+Dra. Caroline Pimenta,413.026.897-03,correiadavi-lucca@example.net,"Esplanada Kamilly Pacheco, 3
+Vila Formosa
+40450072 Souza das Flores / PB",1958-09-17,73,(031) 3215 7343,7425,3,188
+Valentina Sá,932.781.046-50,kamillybarbosa@example.org,"Morro da Mota, 426
+Antonio Ribeiro De Abreu 1ª Seção
+18604-020 da Cunha / AL",1997-05-23,70,+55 (041) 7687 4050,8976,2,393
+Bella Vargas,486.032.971-69,isisaraujo@example.org,"Lagoa João Miguel Souza, 86
+Leticia
+62425-228 da Luz / MA",1952-11-15,56,11 0788 6198,7931,5,440
+Maria Alice Sampaio,865.319.074-01,rmoraes@example.org,"Viela Catarina Dias
+Nova Granada
+40099117 Caldeira / TO",1966-12-05,21,+55 (021) 3277-0549,2561,4,136
+Melissa da Luz,203.148.765-53,danilo74@example.com,"Vale de Nunes, 86
+Vila Barragem Santa Lúcia
+87156387 Sampaio / MG",1997-08-03,29,+55 (021) 2863 5412,7266,5,326
+Dr. Augusto Sousa,978.406.312-31,peixotovitor@example.net,"Rua Ana Cecília Farias, 90
+Vila Sumaré
+21580-454 Abreu / AM",1951-02-26,37,(011) 8580-8673,9406,1,106
+Bryan da Rocha,148.950.632-24,vasconcelosleonardo@example.net,"Rua de Albuquerque, 56
+Cachoeirinha
+27380-191 Rios / AL",1995-04-29,68,0300 813 5060,8899,5,81
+Augusto Fonseca,197.648.320-40,agatha05@example.com,"Travessa Asafe Ribeiro, 864
+João Paulo Ii
+28649-236 Farias / RJ",2000-11-27,46,+55 71 8852 2145,5680,3,367
+Matheus Garcia,406.912.387-31,piresmirella@example.net,"Pátio Mendonça, 5
+Piraja
+85624061 Rios / SE",1982-12-25,34,(021) 7716 9742,6891,1,471
+Lara Campos,267.945.031-07,pedro-miguelalmeida@example.com,"Parque Cavalcanti
+Vila Madre Gertrudes 1ª Seção
+49883091 Fogaça / PE",1958-11-18,48,11 2427 5052,2535,1,20
+Maria Clara da Luz,819.435.067-01,benicio21@example.net,"Ladeira de Oliveira, 41
+Laranjeiras
+07902056 Macedo do Galho / SP",1963-06-27,80,31 7458 2341,3584,5,251
+Maria Luiza Abreu,197.684.230-13,yago15@example.net,"Viaduto Pedro Miguel Rezende
+Jonas Veiga
+22866748 Câmara / RN",1987-03-10,68,11 0562 4326,6753,2,442
+Miguel Aparecida,986.541.237-37,sophie51@example.org,"Alameda de Silveira, 27
+Estoril
+07895445 Aparecida da Serra / PB",1986-03-20,60,+55 84 6067-9422,2339,3,260
+Antony Silva,804.372.196-31,gabreu@example.com,"Quadra Júlia Martins, 8
+João Alfredo
+85373243 Pires de Goiás / MA",1998-04-30,69,11 3299-1147,6031,1,382
+Caleb Rocha,286.439.071-03,josue23@example.net,"Residencial Gustavo Monteiro, 28
+Pirineus
+91423089 Almeida / ES",1953-10-11,33,+55 (041) 7830 3216,8709,5,93
+Maria Flor Gonçalves,503.946.821-06,cirinojoao-pedro@example.com,"Praia Jesus, 9
+Mariquinhas
+21732218 Aparecida / RN",1972-06-02,70,+55 81 9689 1469,4832,5,36
+Ana Liz Viana,271.649.583-19,scastro@example.com,"Lago de Silveira, 21
+Nossa Senhora Aparecida
+09486887 Vieira de Goiás / DF",1973-05-04,59,+55 31 6571 0046,1231,1,379
+Caio Ribeiro,687.034.129-03,benjamin27@example.org,"Fazenda Luan Siqueira, 80
+Vila Madre Gertrudes 3ª Seção
+25138-256 Leão das Pedras / GO",2005-07-27,38,0900-171-6071,1987,3,130
+Emanuelly Costela,394.561.708-10,ceciliasilva@example.net,"Lagoa de Machado, 400
+Sport Club
+16343-624 Abreu do Galho / MT",1967-05-16,24,+55 (041) 6529 5045,3206,3,482
+Luan da Costa,607.832.549-38,kvargas@example.org,"Condomínio Nascimento, 63
+Vila Sumaré
+33884-451 Rocha / PB",1963-03-18,35,+55 (051) 2458-5219,6556,4,384
+Felipe Rios,389.106.425-05,santosisadora@example.com,"Campo Sarah da Conceição
+Jardim Leblon
+19662691 Carvalho do Sul / AC",1950-03-04,72,41 3346-7177,7615,2,212
+Natália Cunha,038.216.975-12,felipeda-cunha@example.net,"Estação Pinto, 87
+Bonfim
+72681219 Teixeira / PE",2000-12-23,37,+55 61 2527 5598,3168,1,221
+Sr. Marcelo Fonseca,837.450.961-93,amontenegro@example.org,"Praça de Viana, 42
+Serrano
+61387965 Rezende / AM",1959-09-18,64,31 2326 1851,8316,5,73
+Alexandre Vieira,842.935.610-05,fogacaanthony@example.com,"Área Oliveira, 912
+Brasil Industrial
+71503-860 Rios / MS",1975-08-31,54,(061) 8728 5835,1197,5,345
+Davi Lucca da Mata,235.180.649-24,hjesus@example.org,"Fazenda de Mendonça, 88
+Jardim América
+31304313 Borges Paulista / SC",1975-06-11,20,+55 84 0218-2087,2498,1,318
+Dra. Daniela Oliveira,863.127.405-44,wcamara@example.com,"Recanto Oliveira, 33
+Horto
+61652308 Almeida / AL",1996-02-08,37,+55 (061) 2189-5670,4233,3,101
+João Guilherme Pinto,142.687.309-31,carlos-eduardo83@example.org,"Aeroporto de Freitas
+Vila Independencia 1ª Seção
+18252941 das Neves da Prata / RN",1961-04-08,80,+55 21 9670 8973,4197,2,424
+Thiago Mendonça,854.231.079-97,andresilva@example.net,"Vale Sales
+Califórnia
+86323-972 Moreira / AM",1973-05-16,41,+55 (084) 3059 1641,9140,4,369
+Henry Gabriel Pires,079.435.182-41,agathaazevedo@example.net,"Vila de Freitas, 81
+Dom Joaquim
+99292803 Pacheco de Pires / AP",1996-05-22,36,51 3267 6210,9485,5,258
+Sophia Pereira,904.516.378-01,kalves@example.com,"Colônia Mendonça, 912
+Vila Madre Gertrudes 3ª Seção
+55025-778 Borges das Pedras / ES",1972-04-07,46,+55 (071) 6212-4658,6842,5,15
+Luiz Felipe Montenegro,698.520.471-67,asilveira@example.com,"Alameda Joaquim Brito, 5
+Gameleira
+00380-158 Costela Grande / MA",1974-02-09,75,+55 (061) 4059 5108,3081,5,180
+Bernardo Dias,521.064.398-06,ana-julia51@example.org,"Estrada Garcia, 6
+Vila União
+01499-020 Almeida Verde / SC",2000-09-17,59,+55 61 5269-5174,1360,2,336
+Maria Vitória Cavalcante,970.654.138-10,ceciliada-cunha@example.org,"Conjunto Luiz Felipe Casa Grande, 3
+Nova Cachoeirinha
+81381-129 Cassiano / SP",1985-12-19,76,(031) 9454 2768,2121,1,349
